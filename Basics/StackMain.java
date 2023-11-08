@@ -1,3 +1,4 @@
+package Basics;
 public class StackMain {
     public static void main(String[] args) throws StackException{
         // CustomStack stack = new CustomStack(5);

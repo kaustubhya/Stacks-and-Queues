@@ -1,3 +1,4 @@
+package Basics;
 public class QueueMain {
     public static void main(String[] args) throws Exception {
 //         CustomQueue queue = new CustomQueue(5);
@@ -40,7 +41,7 @@ public class QueueMain {
                  queue.insert(99);
         // tc O(1)
 
-        
+
                 queue.display();
                 // tc = O(n)
 
