@@ -1,0 +1,25 @@
+Dynamic Stack
+53.40
+TC O(n)
+but generally O(1)
+
+
+Custom Queue:
+We can have 2 pointer approach like head and tail or just one pointer approach (head only). We will check out the one pointer approach.
+
+59.00
+Queue is like an array here
+O(1) generally
+
+O(n) - Removal in normal pointer
+
+Circular Queue:
+Use f and e pointer
+To insert, increment, e pointer
+To remove, increment f pointer
+
+TO go from n to 0 index, use remeinders
+
+e % size
+
+this insertion and removal takes O(1) tc
